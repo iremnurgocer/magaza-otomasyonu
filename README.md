@@ -1,0 +1,2 @@
+# magaza-otomasyonu
+ 
