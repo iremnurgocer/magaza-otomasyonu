@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAGAZAOTOMASYONU", "MAGAZAOTOMASYONU\MAGAZAOTOMASYONU.csproj", "{5C6096F7-0DFC-4114-BBA0-80F91AC10E53}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MAGAZAOTOMASYON Editor", "MAGAZAOTOMASYON Editor\MAGAZAOTOMASYON Editor.vdproj", "{6CAA6100-D97A-4D35-9806-076464ADFD6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C6096F7-0DFC-4114-BBA0-80F91AC10E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6096F7-0DFC-4114-BBA0-80F91AC10E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6096F7-0DFC-4114-BBA0-80F91AC10E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6096F7-0DFC-4114-BBA0-80F91AC10E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CAA6100-D97A-4D35-9806-076464ADFD6B}.Debug|Any CPU.ActiveCfg = Debug
+		{6CAA6100-D97A-4D35-9806-076464ADFD6B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44943A7E-CF72-4149-8942-6D29F5A842B0}
+	EndGlobalSection
+EndGlobal

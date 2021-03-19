@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\obj\Debug\MAGAZAOTOMASYONU.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\obj\Debug\MAGAZAOTOMASYONU.Properties.Resources.resources
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\obj\Debug\MAGAZAOTOMASYONU.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\obj\Debug\MAGAZAOTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\obj\Debug\MAGAZAOTOMASYONU.Form1.resources
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\obj\Debug\MAGAZAOTOMASYONU.Form2.resources
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\obj\Debug\MAGAZAOTOMASYONU.Form3.resources
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\obj\Debug\MAGAZAOTOMASYONU.Form4.resources
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\obj\Debug\MAGAZAOTOMASYONU.Form5.resources
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\bin\Debug\MAGAZAOTOMASYONU.exe.config
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\bin\Debug\MAGAZAOTOMASYONU.exe
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\bin\Debug\MAGAZAOTOMASYONU.pdb
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\obj\Debug\MAGAZAOTOMASYONU.exe
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\obj\Debug\MAGAZAOTOMASYONU.pdb
+C:\Users\lenovo\source\repos\MAGAZAOTOMASYONU\MAGAZAOTOMASYONU\obj\Debug\MAGAZAOTOMASYONU.Form6.resources
